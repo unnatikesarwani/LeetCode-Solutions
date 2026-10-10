@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/unnatikesarwani/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0525-contiguous-array](https://github.com/unnatikesarwani/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/unnatikesarwani/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/unnatikesarwani/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/unnatikesarwani/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/unnatikesarwani/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/unnatikesarwani/LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0525-contiguous-array](https://github.com/unnatikesarwani/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/unnatikesarwani/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/unnatikesarwani/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/unnatikesarwani/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/unnatikesarwani/LeetCode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Hash Table
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/unnatikesarwani/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0713-subarray-product-less-than-k](https://github.com/unnatikesarwani/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 ## Linked List
 |  |
 | ------- |
@@ -64,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/unnatikesarwani/LeetCode-Solutions/tree/master/0986-interval-list-intersections) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/unnatikesarwani/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
